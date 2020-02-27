@@ -1,0 +1,6 @@
+[How to] Create categories
+
+1. Open the Categories.lua file
+2. Look what I did with Custom Class 1 - 5
+3. Do the same
+4. Profit

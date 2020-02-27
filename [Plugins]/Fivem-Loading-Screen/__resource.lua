@@ -1,0 +1,38 @@
+files {
+    'index.html',
+    'css/animations.css',
+    'css/bootstrap.css',
+    'css/bootstrap.min.css',
+    'css/font-awesome.min.csss',
+    'css/lightbox.min.css',
+    'css/modal-video.min.css',
+    'css/style.css',
+    'fonts/Orbitron-Bold.ttf',
+    'fonts/Orbitron-Regular',
+    'images/bg.png',
+    'images/close.png',
+    'images/loading.gif',
+    'images/logo2.png',
+    'images/modal_header_bg.png',
+    'images/next.png',
+    'images/placeholder.jpg',
+    'images/prev.png',
+    'images/sound.mp3',
+    'js/blazy.min.js',
+    'js/bootstrap.min.js',
+    'js/isotope.pkgd.min.js',
+    'js/jquery-3.2.1.min.js',
+    'js/jquery-modal-video.min.js',
+    'js/lightbox.min.js',
+    'js/particles.js',
+    'js/particles.json',
+    'js/popper.min.js',
+    'js/strider.js',
+    'js/validator.min.js',
+    'favicon.ico',
+    'audio.mp3',
+}
+
+loadscreen 'index.html'
+
+resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
